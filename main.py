@@ -10,12 +10,4 @@ else:
 listItoBaks = ["haha1", "haha2", "haha3"]
 
 print(listItoBaks)
-print(listItoBaks[1])
-print(listItoBaks[2])
-print(listItoBaks[3])
-
-
-print("-----------------------------------")
-print("          WELCOME, BADING!         ")
-print("-----------------------------------")
-
+print("")
