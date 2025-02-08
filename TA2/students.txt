@@ -1,0 +1,16 @@
+Name: Pauline Erika Mapoy
+Age: 20
+Contact: 09777288339
+Course: BSIT-WMA
+Name: Taylor Alison Swift
+Age: 35
+Contact: 09888227445
+Course: CS
+Name: Blake Edward Richardson
+Age: 25
+Contact: 09554892311
+Course: BSIT-AGD
+Name: Reece Jamie Bibby
+Age: 26
+Contact: 09456781223
+Course: Engineering
